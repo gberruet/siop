@@ -1,0 +1,32 @@
+body{
+	background-color: #906090;
+	margin-left: auto;
+	margin-right: auto;
+	color: #fff;
+	font-family: "Arial";
+}
+.row{
+	width: 800px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1{
+    font-size: 60px;
+    margin-bottom: -40px;
+}
+p{
+	font-size: 36px;
+}
+p.descripcion{
+	
+}
+p.sesion{
+	font-size: 24px;
+
+}
+.form-group{
+	font-family: "Arial";
+    font-size: 18px;
+}
